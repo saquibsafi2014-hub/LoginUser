@@ -6,7 +6,7 @@
 
 <h1>Deliciousness in every bite!</h1>
 <p>Every cookie made at a Kevin Cookie company is crafted
-with only the more astonishing  ingredients.
+with only the more and more astonishing  ingredients.
 <<<<<<<<<<HEAD
 </body>
 </html>
